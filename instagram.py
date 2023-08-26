@@ -1,4 +1,4 @@
-from XYZINSTAGRAM import insta
+from XYZINSTAGRAM import Instaxyz
  
 import os
 try:
@@ -13,7 +13,7 @@ except (ModuleNotFoundError,ImportError):
 def main():
     os.system('git pull')
     os.system('clear')
-    Instaxyz.false()
+    insta.false()
  
 if __name__ == '__main__':
    main()
