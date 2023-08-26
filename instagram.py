@@ -13,7 +13,7 @@ except (ModuleNotFoundError,ImportError):
 def main():
     os.system('git pull')
     os.system('clear')
-    insta.false()
+    Instaxyz.false()
  
 if __name__ == '__main__':
    main()
