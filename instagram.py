@@ -1,21 +1,11 @@
-from XYZINSTAGRAM import Instaxyz
+import os,platform
+os.system('git pull')
  
-import os
-try:
-     import bs4
-except (ModuleNotFoundError,ImportError):
-     os.system('pip install bs4')
-try:
-     import requests
-except (ModuleNotFoundError,ImportError):
-     os.system('pip install requests')
+trt=platform.architecture()[0]
+if trt=="32bit":
+    print('Sorry 32 Bit Not Supported...')
+elif trt=="64bit":
+    __import__("Instaxyz")
  
-def main():
-    os.system('git pull')
-    os.system('clear')
-    instagram.false()
- 
-if __name__ == '__main__':
-   main()
  
  
