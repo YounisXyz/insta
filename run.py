@@ -1,8 +1,8 @@
 import os
 os.system('clear')
-x = 'Insta Script has been Stopped!'
-y = 'Instagram Cloning Has been Added In Official XYZ Tool'
-z = 'Thanks for using Younis John tools'
+x = 'Script has been Deleted Permanently'
+y = 'Younis john Tools No More Updates again'
+z = 'Thanks for joining - '
 print(x)
 print(y)
 print(z)
