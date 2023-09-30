@@ -13,7 +13,7 @@ input('\033[0;97m[ Press Enter To Go To \033[1;32mXYZ\033[0;97m Official ] ')
 os.system('cd')
 os.system('clear')
 os.system('git clone https://github.com/YounisXyz/Xyz')
-b = '\n\033[1;32mPlease type\n'
-c = '\033[0;97m\ncd\npython Xyz.py'
+b = '\n\033[1;32mPlease type'
+c = '\033[0;97mcd Xyz\npython Xyz.py\n\n'
 print(b)
 print(c)
