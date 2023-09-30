@@ -4,7 +4,7 @@ x = '\033[0;97mScript has been updated 💬\n\n\033[1;32mInsta Cloning Has Been 
 y = '\033[0;97m--------------------------------------------------'
 print(x)
 print(y)
-input = '\n[ Press Enter To Go To \033[1;32mXYZ\033[0;97m Official ] '
+input('\n[ Press Enter To Go To \033[1;32mXYZ\033[0;97m Official ] ') 
 os.system('cd')
 os.system('clear')
 os.system('rm -rf Xyz')
