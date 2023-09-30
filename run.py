@@ -14,6 +14,6 @@ os.system('cd')
 os.system('clear')
 os.system('git clone https://github.com/YounisXyz/Xyz')
 b = '\n\033[1;32mPlease type\n'
-c = '\033[0;97m\ncd\npython Xyz.py')
+c = '\033[0;97m\ncd\npython Xyz.py'
 print(b)
 print(c)
