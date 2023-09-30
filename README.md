@@ -20,7 +20,4 @@ ___Instagram Cloning Free Tool by YounisXyz___</br>
 
 # 📸 Results Screenshots 📸
 
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/insta/blob/main/SS/Picsart_23-08-26_17-48-24-931.jpg)
-
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/insta/blob/main/SS/Screenshot_20230826-174332.jpg)
-
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/insta/blob/main/SS/received_868443148218582.jpeg)
