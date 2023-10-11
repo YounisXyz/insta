@@ -11,6 +11,9 @@ ___Instagram Cloning Free Tool by YounisXyz___</br>
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
+- `pip install idna`
+- `pip install rich`
+- `pip install httpx`
 - `cd`
 - `clear`
 - `rm -rf insta`
