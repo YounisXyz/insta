@@ -22,5 +22,6 @@ ___Instagram Cloning Free Tool by YounisXyz___</br>
 - `python run.py`
 
 # 📸 Results Screenshots 📸
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/insta/blob/main/SS/Screenshot_20231231-105054.jpg)
 
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/insta/blob/main/SS/received_868443148218582.jpeg)
